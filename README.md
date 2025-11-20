@@ -26,11 +26,11 @@ This project is incomplete
 
 ## Getting Started
 
-Termunator is currently in development. For installation instructions, usage guides, and tutorials, please visit our website (coming soon).
+Termunator is currently in development. There are no build guides.
 
 ## Contributing
 
-Contributions are welcome! Please see the repository for guidelines and ways to get involved.
+Contributions are welcome! Please see the repository for guidelines and ways to get involved (This line is here for when its more complete...)
 
 ## License
 
@@ -61,5 +61,6 @@ Termunator uses the following open source libraries and assets:
 Other dependencies are listed in `package.json` and `go.mod`. Please refer to those files for the full list and their respective licenses.
 
 If you use Termunator in a way that redistributes it, ensure you comply with the licenses of these dependencies. For icon and font attributions, see the respective project documentation.
+
 
 
