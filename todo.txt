@@ -1,0 +1,29 @@
+
+TODO LIST (AI generated formating)
+
+CRITICAL
+--------
+[!!!] SFTP: transfer queue
+[!!] Notifications
+
+IMPORTANT UX & CORE
+-------------------
+[!!] Make macros work
+[!!] History save
+    - Macros from frequent commands
+[!!] Changing layout of SFTP should not reload (only reloads visibly on frontend so ig its fine for now doesnt cuase extra server load)
+    - Also save client and host home directory inside it, doesnt take much performance to fetch but its fine
+[!!] sudo perms in sftp
+[!!] Account
+[!!] actually save settings (2 options locally or account)  -- last
+
+GENERAL IMPROVEMENTS
+--------------------
+- sftp more 
+    -select all 
+    -new folder 
+    -functionality to delete
+[!]- switch between tabs with ctrl tab or chosen keybind ctrl shift tab maybe to not colldie with anything
+- Close on exit (when input is 'exit', run healthcheck?) Ubuntu returns 'logout', many OSes
+- Fix scrollbar later (and resizing) — low priority
+- get os on first connection and get image from there

@@ -1,0 +1,55 @@
+build/bin
+node_modules
+frontend/dist
+
+# Go build and dependency files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Wails build output
+build/*.exe
+build/*.dll
+build/*.so
+build/*.dylib
+build/*.test
+build/*.out
+
+# Wails cache and generated files
+wails-build-cache/
+wailsjs/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependency directories
+vendor/
+
+# Frontend (npm/yarn/pnpm)
+frontend/node_modules/
+frontend/.svelte-kit/
+frontend/.vite/
+frontend/.cache/
+frontend/package-lock.json
+frontend/yarn.lock
+frontend/pnpm-lock.yaml
+
+# Misc
+.env
+.env.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
